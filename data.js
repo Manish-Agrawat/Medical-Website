@@ -298,7 +298,7 @@ const serviceDetails = {
   md9: {
     title: "MD‑9 Medical Device License",
     icon: "fas fa-check-circle",
-    img: "images/md9.jpg",
+    img: "Image/md9.png",
     full: `
       <h4>Overview</h4>
       <p>License for Class C & D devices—medium to high-risk medical devices.</p>
@@ -319,7 +319,7 @@ const serviceDetails = {
   md15: {
     title: "MD‑15 Import License",
     icon: "fas fa-box-open",
-    img: "images/md15.jpg",
+    img: "Image/md15.png",
     full: `
       <h4>Overview</h4>
       <p>Required to import medical devices into India (all classes).</p>
@@ -334,7 +334,7 @@ const serviceDetails = {
   md13: {
     title: "MD‑13 Test License",
     icon: "fas fa-vial",
-    img: "images/md13.jpg",
+    img: "Image/md13.png",
     full: `
       <h4>Overview</h4>
       <p>License for testing and evaluation of devices in India.</p>
@@ -348,7 +348,7 @@ const serviceDetails = {
   md17: {
     title: "MD‑17 Import‑Test License",
     icon: "fas fa-flask",
-    img: "images/md17.jpg",
+    img: "    Image/md17.png",
     full: `
       <h4>Overview</h4>
       <p>Allows import for test or training purposes, not for sale.</p>
@@ -362,7 +362,7 @@ const serviceDetails = {
   md42: {
     title: "MD‑42 Wholesale License",
     icon: "fas fa-truck-loading",
-    img: "images/md42.jpg",
+    img: "Image/md42.png",
     full: `
       <h4>Overview</h4>
       <p>License to stock and sell medical devices wholesale in India.</p>
@@ -376,7 +376,7 @@ const serviceDetails = {
   certificates: {
     title: "Certificates & Docs",
     icon: "fas fa-certificate",
-    img: "images/certificates.jpg",
+    img: "Image/certificates.png",
     full: `
       <h4>Overview</h4>
       <p>Includes Free Sale, Market Standing, and Non-Conviction certificates.</p>
@@ -390,7 +390,7 @@ const serviceDetails = {
   "fda-ndc": {
     title: "FDA NDC Number Registration",
     icon: "fas fa-barcode",
-    img: "images/fda_ndc.jpg",
+    img: "Image/fda_ndc.png",
     full: `
       <h4>Overview</h4>
       <p>Register your product with a National Drug Code (NDC) via US FDA.</p>
@@ -399,7 +399,7 @@ const serviceDetails = {
   "fda-listing": {
     title: "FDA Device Listing",
     icon: "fas fa-list",
-    img: "images/fda_listing.jpg",
+    img: "Image/fda_listing.png",
     full: `
       <h4>Overview</h4>
       <p>List your medical device with the US FDA database for compliance.</p>
@@ -408,7 +408,7 @@ const serviceDetails = {
   "fda-510k": {
     title: "FDA 510(k) Submission",
     icon: "fas fa-file-signature",
-    img: "images/fda_510k.jpg",
+    img: "Image/fda_510k.png",
     full: `
       <h4>Overview</h4>
       <p>Submit 510(k) for clearance to market in the USA. Get expert guidance.</p>
@@ -417,7 +417,7 @@ const serviceDetails = {
   "plant-setup": {
     title: "Manufacturing Plant Setup",
     icon: "fas fa-industry",
-    img: "images/plant_setup.jpg",
+    img: "Image/plant_setup.png",
     full: `
       <h4>Overview</h4>
       <p>End-to-end support in setting up a compliant manufacturing facility.</p>
@@ -426,7 +426,7 @@ const serviceDetails = {
   "iso-qms": {
     title: "ISO/QMS Certification",
     icon: "fas fa-award",
-    img: "images/iso_qms.jpg",
+    img: "Image/iso_qms.png",
     full: `
       <h4>Overview</h4>
       <p>Guidance for ISO 13485, ISO 9001 and other QMS systems.</p>
@@ -435,7 +435,7 @@ const serviceDetails = {
   udi: {
     title: "UDI – Unique Device ID",
     icon: "fas fa-barcode",
-    img: "images/udi.jpg",
+    img: "Image/udi.png",
     full: `
       <h4>Overview</h4>
       <p>Support for UDI implementation as per global regulatory requirements.</p>
@@ -444,7 +444,7 @@ const serviceDetails = {
   "ce-cert": {
     title: "CE Certification Consultancy",
     icon: "fas fa-globe-europe",
-    img: "images/ce_cert.jpg",
+    img: "Image/ce_cert.png",
     full: `
       <h4>Overview</h4>
       <p>EU CE marking advisory for medical and IVD devices.</p>
@@ -453,7 +453,7 @@ const serviceDetails = {
   labelling: {
     title: "Device Labelling Compliance",
     icon: "fas fa-tags",
-    img: "images/labelling.jpg",
+    img: "Image/labelling.png",
     full: `
       <h4>Overview</h4>
       <p>Ensure EU MDR/IVDR-compliant labeling of medical devices.</p>
@@ -462,7 +462,7 @@ const serviceDetails = {
   "fda-agent": {
     title: "US FDA Agent Services",
     icon: "fas fa-user-tie",
-    img: "images/fda_agent.jpg",
+    img: "Image/fda_agent.png",
     full: `
       <h4>Overview</h4>
       <p>US local agent service for foreign manufacturers entering the US market.</p>
@@ -471,7 +471,7 @@ const serviceDetails = {
   turnkey: {
     title: "Turnkey Device Consultancy",
     icon: "fas fa-cogs",
-    img: "images/turnkey.jpg",
+    img: "Image/turnkey.png",
     full: `
       <h4>Overview</h4>
       <p>End-to-end support from concept to regulatory approval and market launch.</p>
